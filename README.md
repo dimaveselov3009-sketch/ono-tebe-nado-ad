@@ -18,8 +18,7 @@ https://github.com/dimaveselov3009-sketch/ono-tebe-nado-ad
 
 ## Благодарность
 
-Благодарю команду Яндекс Практикум за предоставление дизайна и уроков!
-]https://github.com/dimaveselov3009-sketch/ono-tebe-nado-ad
+https://github.com/dimaveselov3009-sketch/ono-tebe-nado-ad
 
 # Яндекс Практикум, 1 спринт, проект "Оно тебе надо"
 
